@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there I'm Anamika👋
 
-<!--
-**Anamika-Suresh/Anamika-Suresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **IT Engineering Graduate** | 💻 Python Programmer | Aspiring Front End Developer | UI/UX Enthusiast  🇮🇳 From Kerala, India  
 
-Here are some ideas to get you started:
+ 🚀 Skills
+- **Languages:** Python, JavaScript, C++
+- **Web Development:** HTML, CSS, Flask Python
+- **Tools & Platforms:** Git, Docker, Streamlit
+- **Others:** UI/UX Design, Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## 📌 Featured Projects
+- [Automated Class Schedule Generator]-https://github.com/Anamika-Suresh/class-schedule-generator
+- [Ice-pellet-catcher-game]-https://github.com/Anamika-Suresh/ice-pellet-catcher-game
+- [AI-Image-Generator]-https://github.com/Anamika-Suresh/AI-Image-Generator
+
+📫 Connect with Me
+- 📧 [Email:(https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)] your.email@example.com
+- 💼 [LinkedIn: (https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)][linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+
+⭐️ _“Code is like humor. When you have to explain it, it’s bad.”_
+
+![Profile Views](https://komarev.com/ghpvc/?username=Anamika-Suresh&color=blue)
