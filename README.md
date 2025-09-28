@@ -1,12 +1,12 @@
 ## Hi there I'm Anamika👋
 
-🎓 **IT Engineering Graduate** | 💻 Python Programmer | Aspiring Front End Developer | UI/UX Enthusiast  🇮🇳 From Kerala, India  
+🎓 **IT Engineering Graduate** | 💻 Python Programmer | Learning Data Science & Generative AI  🇮🇳 From Kerala, India  
 
  🚀 Skills
 - **Languages:** Python, JavaScript, C++
-- **Web Development:** HTML, CSS, Flask Python
-- **Tools & Platforms:** Git, Docker, Streamlit
-- **Others:** UI/UX Design, Data Analysis
+- **Web Development:** Python, Data Analysis, Machine Learning
+- **Tools & Platforms:** Jupyter Notebook, Pandas & NumPy, LLM, Stable Diffusion, Transformers
+- **Others:** Data Analysis, Web Development
 
   ## 📌 Featured Projects
 - [Automated Class Schedule Generator]-https://github.com/Anamika-Suresh/class-schedule-generator
