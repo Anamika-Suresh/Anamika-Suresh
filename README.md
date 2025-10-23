@@ -1,6 +1,8 @@
 ## Hi there I'm Anamika👋
 
-🎓 **IT Engineering Graduate** | 💻 Python Programmer | Learning Data Science & Generative AI  🇮🇳 From Kerala, India  
+🎓 **IT Engineering Graduate** | 💻 Python Programmer | Learning Data Science & Generative AI 
+
+ From Kerala, India  
 
  🚀 Skills
 - **Languages:** Python, JavaScript, C++
