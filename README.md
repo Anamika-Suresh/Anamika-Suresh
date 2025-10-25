@@ -7,8 +7,8 @@
  🚀 Skills
 - **Languages:** Python, JavaScript, C++
 - **Web Development:** Python, Data Analysis, Machine Learning
-- **Tools & Platforms:** Jupyter Notebook, Pandas & NumPy, LLM, Stable Diffusion, Transformers
-- **Others:** Data Analysis, Web Development
+- **Tools & Platforms:** Jupyter Notebook, Pandas, NumPy,Matplotlib, Seaborn, Selenium, LLM, Stable Diffusion, Transformers, VS code
+- **Others:** Data Analysis, Web Development, Data Science, Gen AI
 
   ## 📌 Featured Projects
 - [Automated Class Schedule Generator]-https://github.com/Anamika-Suresh/class-schedule-generator
