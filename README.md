@@ -28,7 +28,8 @@
 
 🐙 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Anamika-Suresh)  
   
-⭐️ _“Code is like humor. When you have to explain it, it’s bad.”_
+⭐️ _✨ *"Turning data into insights, and insights into decisions."* _
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anamika-Suresh&color=blue)
