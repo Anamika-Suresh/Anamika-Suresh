@@ -5,15 +5,20 @@
  From Kerala, India  
 
  🚀 Skills
-- **Languages:** Python, JavaScript, C++
-- **Web Development:** Python, Data Analysis, Machine Learning
-- **Tools & Platforms:** Jupyter Notebook, Pandas, NumPy,Matplotlib, Seaborn, Selenium, LLM, Stable Diffusion, Transformers, VS code
-- **Others:** Data Analysis, Web Development, Data Science, Gen AI
+ 
+ **Programming Languages:** Python, SQL, JavaScript  
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Excel, Power BI  
+- **Machine Learning:** Scikit-learn, Data Preprocessing, Model Evaluation  
+- **Tools & Platforms:** Jupyter Notebook, VS Code, Git & GitHub  
+- **Others:** Web Scraping (Selenium), Generative AI (LLMs, Stable Diffusion, Transformers)  
 
   ## 📌 Featured Projects
 - [Automated Class Schedule Generator]-https://github.com/Anamika-Suresh/class-schedule-generator
 - [Ice-pellet-catcher-game]-https://github.com/Anamika-Suresh/ice-pellet-catcher-game
 - [AI-Image-Generator]-https://github.com/Anamika-Suresh/AI-Image-Generator
+- [Heart-Failure-Prediction-System]-https://github.com/Anamika-Suresh/Heart_Failure_Prediction_System
+- [Python-Capstone-Project]-https://github.com/Anamika-Suresh/python-capstone-project
+- [Student-Management-System]-https://github.com/Anamika-Suresh/StudentManagementSystem
 
 📫 Connect with Me
 
@@ -21,6 +26,7 @@
 
 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anamika-suresh-it)
 
+🐙 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Anamika-Suresh)  
   
 ⭐️ _“Code is like humor. When you have to explain it, it’s bad.”_
 
