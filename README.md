@@ -1,6 +1,6 @@
 ## Hi there I'm Anamika👋
 
-🎓 **IT Engineering Graduate** | 💻 **Python Programmer** | **Learning Data Science & Generative AI** | **Data Analyst**
+🎓 **B.Tech IT Graduate** | 💻 **Python Programmer** | **Learning Data Science & Generative AI** | **Data Analyst**
 
  From Kerala, India  
 
