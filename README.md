@@ -19,6 +19,7 @@
 - [Heart-Failure-Prediction-System]-https://github.com/Anamika-Suresh/Heart_Failure_Prediction_System
 - [Python-Capstone-Project]-https://github.com/Anamika-Suresh/python-capstone-project
 - [Student-Management-System]-https://github.com/Anamika-Suresh/StudentManagementSystem
+- [NOX-emission-Prediction]-https://github.com/Anamika-Suresh/Gas-Turbine-NOX-Emission
 
 📫 Connect with Me
 
