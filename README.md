@@ -13,7 +13,6 @@
 - **Others:** Web Scraping (Selenium), Generative AI (LLMs, Stable Diffusion, Transformers)  
 
   ## 📌 Featured Projects
-- [Titanic-Prediction]-https://github.com/Anamika-Suresh/titanic-prediction
 - [Ice-pellet-catcher-game]-https://github.com/Anamika-Suresh/ice-pellet-catcher-game
 - [AI-Image-Generator]-https://github.com/Anamika-Suresh/AI-Image-Generator
 - [Heart-Failure-Prediction-System]-https://github.com/Anamika-Suresh/Heart_Failure_Prediction_System
