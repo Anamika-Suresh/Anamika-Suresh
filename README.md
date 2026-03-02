@@ -1,4 +1,4 @@
-## Hi there I'm Anamika👋
+## Hi there I'm Anamika
 
 🎓 **B.Tech IT Graduate** | 💻 **Python Programmer** | **Learning Data Science & Generative AI** | **Data Analyst**
 
