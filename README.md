@@ -17,7 +17,7 @@
 - [AI-Image-Generator]-https://github.com/Anamika-Suresh/AI-Image-Generator
 - [Heart-Failure-Prediction-System]-https://github.com/Anamika-Suresh/Heart_Failure_Prediction_System
 - [Python-Capstone-Project]-https://github.com/Anamika-Suresh/python-capstone-project
-- [Student-Management-System]-https://github.com/Anamika-Suresh/StudentManagementSystem
+- [Interview-assistant-facial-emotion-detector]-https://github.com/Anamika-Suresh/Interview-assistant-facial-emotion-detector
 - [NOX-emission-Prediction]-https://github.com/Anamika-Suresh/Gas-Turbine-NOX-Emission
 
 📫 Connect with Me
