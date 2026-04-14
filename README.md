@@ -1,10 +1,10 @@
 ## Hi there I'm Anamika
 
-🎓 **B.Tech IT Graduate** | 💻 **Python Programmer** | **Learning Data Science & Generative AI** | **Data Analyst**
+ **B.Tech IT Graduate** |  **Python Programmer** | **Learning Data Science & Generative AI** | **Data Analyst**
 
  From Kerala, India  
 
- 🚀 Skills
+ ## Skills
  
  **Programming Languages:** Python, SQL, JavaScript  
 - **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Excel, Power BI  
