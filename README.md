@@ -20,7 +20,7 @@
 - [Interview-assistant-facial-emotion-detector]-https://github.com/Anamika-Suresh/Interview-assistant-facial-emotion-detector
 - [NOX-emission-Prediction]-https://github.com/Anamika-Suresh/Gas-Turbine-NOX-Emission
 
-📫 Connect with Me
+ Connect with Me
 
 📧 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anamikasuresh963@gmail.com)
 
