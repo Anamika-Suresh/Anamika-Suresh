@@ -5,7 +5,7 @@
 **Data Scientist · ML Engineer · Generative AI**  
 *B.Tech IT, CUSAT (8.33 CGPA) · Calicut, Kerala · Open to Work*
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-d4af37?style=for-the-badge)](https://anamika-suresh.github.io/port-folio/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-d4af37?style=for-the-badge)]( https://anamika-suresh.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anamika-suresh-it)
 [![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anamikasuresh963@gmail.com)
 
