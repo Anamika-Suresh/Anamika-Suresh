@@ -1,37 +1,62 @@
-## Hi there I'm Anamika
+<div align="center">
 
- **B.Tech IT Graduate** |  **Python Programmer** | **Certified in Data Science & Generative AI** | **ML engineer**
+<h1>Anamika Suresh</h1>
 
- From Kerala, India  
- 
- [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-d4af37?style=for-the-badge&logoColor=white)](https://anamika-suresh.github.io/port-folio/)
+**Data Scientist · ML Engineer · Generative AI**  
+*B.Tech IT, CUSAT (8.33 CGPA) · Calicut, Kerala · Open to Work*
 
- ## Skills
- 
- **Programming Languages:** Python, SQL, JavaScript  
-- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Excel, Power BI  
-- **Machine Learning:** Scikit-learn, Data Preprocessing, Model Evaluation  
-- **Tools & Platforms:** Jupyter Notebook, VS Code, Git & GitHub  
-- **Others:** Web Scraping (Selenium), Generative AI (LLMs, Stable Diffusion, Transformers)  
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-d4af37?style=for-the-badge)](https://anamika-suresh.github.io/port-folio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anamika-suresh-it)
+[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anamikasuresh963@gmail.com)
 
-  ## 📌 Featured Projects
-- [Ice-pellet-catcher-game]-https://github.com/Anamika-Suresh/ice-pellet-catcher-game
-- [AI-Image-Generator]-https://github.com/Anamika-Suresh/AI-Image-Generator
-- [Heart-Failure-Prediction-System]-https://github.com/Anamika-Suresh/Heart_Failure_Prediction_System
-- [Python-Capstone-Project]-https://github.com/Anamika-Suresh/python-capstone-project
-- [Interview-assistant-facial-emotion-detector]-https://github.com/Anamika-Suresh/Interview-assistant-facial-emotion-detector
-- [NOX-emission-Prediction]-https://github.com/Anamika-Suresh/Gas-Turbine-NOX-Emission
+</div>
 
- ## ⭐️ Connect with Me
+---
 
-📧 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anamikasuresh963@gmail.com)
+### What I build
 
-💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anamika-suresh-it)
+End-to-end ML systems — from raw data through model training to deployed APIs. My work spans predictive modeling, computer vision pipelines, and generative AI applications using Python, TensorFlow, Flask, and Hugging Face.
 
-🐙 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Anamika-Suresh)  
-  
-⭐️ _✨ *"Turning data into insights, and insights into decisions."* _
+---
 
-[→ See my full portfolio](https://anamika-suresh.github.io/port-folio/)
+### Featured Projects
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anamika-Suresh&color=blue)
+| Project | Stack | Result |
+|---|---|---|
+| [NOx Emission Predictor](https://github.com/Anamika-Suresh/Gas-Turbine-NOX-Emission) | Random Forest · Flask · Scikit-learn | 88.6% accuracy |
+| [Heart Failure Risk Classifier](https://github.com/Anamika-Suresh/Heart_Failure_Prediction_System) | PyTorch · KNN · PostgreSQL · AI Chatbot | 80.97% accuracy |
+| [Loan Default Risk Engine](https://github.com/Anamika-Suresh/python-capstone-project) | Random Forest · Feature Engineering · Flask | 89% accuracy |
+| [Facial Emotion Recognition](https://github.com/Anamika-Suresh/Interview-assistant-facial-emotion-detector) | TensorFlow · Keras · OpenCV · Real-time CV | 7-class live inference |
+| [AI Image Generator](https://github.com/Anamika-Suresh/AI-Image-Generator) | Stable Diffusion v1.4 · Diffusers · GenAI | Text-to-image pipeline |
+
+---
+
+### Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### Certifications
+
+- 📜 **Data Science with Generative AI** — Entri Elevate · Illinois Tech · NSDC *(Apr 2026)*
+- 📜 **Introduction to Generative AI** — Google Cloud *(Aug 2025)*
+- 📜 **Python · ML · Deep Learning** — Kaggle *(Mar 2023)*
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Anamika-Suresh&color=d4af37&style=flat-square)
+
+</div>
