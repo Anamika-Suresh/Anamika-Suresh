@@ -3,6 +3,8 @@
  **B.Tech IT Graduate** |  **Python Programmer** | **Certified in Data Science & Generative AI** | **ML engineer**
 
  From Kerala, India  
+ 
+📧 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-d4af37?style=for-the-badge&logoColor=white)](https://anamika-suresh.github.io/port-folio/)
 
  ## Skills
  
