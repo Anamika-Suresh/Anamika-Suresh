@@ -4,7 +4,7 @@
 
  From Kerala, India  
  
-📧 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-d4af37?style=for-the-badge&logoColor=white)](https://anamika-suresh.github.io/port-folio/)
+ [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-d4af37?style=for-the-badge&logoColor=white)](https://anamika-suresh.github.io/port-folio/)
 
  ## Skills
  
@@ -32,6 +32,6 @@
   
 ⭐️ _✨ *"Turning data into insights, and insights into decisions."* _
 
-
+[→ See my full portfolio](https://anamika-suresh.github.io/port-folio/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anamika-Suresh&color=blue)
