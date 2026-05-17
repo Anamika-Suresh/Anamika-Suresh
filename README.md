@@ -25,7 +25,7 @@ End-to-end ML systems — from raw data through model training to deployed APIs.
 |---|---|---|
 | [NOx Emission Predictor](https://github.com/Anamika-Suresh/Gas-Turbine-NOX-Emission) | Random Forest · Flask · Scikit-learn | 88.6% accuracy |
 | [Heart Failure Risk Classifier](https://github.com/Anamika-Suresh/Heart_Failure_Prediction_System) | PyTorch · KNN · PostgreSQL · AI Chatbot | 80.97% accuracy |
-| [Loan Default Risk Engine](https://github.com/Anamika-Suresh/python-capstone-project) | Random Forest · Feature Engineering · Flask | 89% accuracy |
+| [Loan Default Risk Engine](https://github.com/Anamika-Suresh/Loan-risk-prediction-app) | Random Forest · Feature Engineering · Flask | 89% accuracy |
 | [Facial Emotion Recognition](https://github.com/Anamika-Suresh/Interview-assistant-facial-emotion-detector) | TensorFlow · Keras · OpenCV · Real-time CV | 7-class live inference |
 | [AI Image Generator](https://github.com/Anamika-Suresh/AI-Image-Generator) | Stable Diffusion v1.4 · Diffusers · GenAI | Text-to-image pipeline |
 
