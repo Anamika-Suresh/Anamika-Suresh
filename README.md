@@ -3,7 +3,7 @@
 <h1>Anamika Suresh</h1>
 
 **Data Scientist · ML Engineer · Generative AI**  
-*B.Tech IT, CUSAT (8.33 CGPA) · Calicut, Kerala · Open to Work*
+*B.Tech IT, CUSAT· Calicut, Kerala · Open to Work*
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-d4af37?style=for-the-badge)](https://portfolio1-iv6j.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anamika-suresh-it)
