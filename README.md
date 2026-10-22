@@ -2,7 +2,7 @@
 
 <h1>Anamika Suresh</h1>
 
-** AI/ML Engineer · Generative AI**  
+**AI/ML Engineer**  
 *B.Tech IT, CUSAT· Calicut, Kerala · Open to Work*
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-d4af37?style=for-the-badge)](https://portfolio1-iv6j.onrender.com/)
